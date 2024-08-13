@@ -1,0 +1,59 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    width: 800px;
+    text-align: center;
+    margin: 0px auto;
+}
+
+h1 {
+    font-size: 24px;
+    color: orangered;
+    padding: 8px;
+    margin-top: 5%;
+}
+
+p.result {
+margin: 20px;
+}
+
+img.result {
+    width: 550px;
+    transition: 0.7s;
+}
+
+img.result:hover {
+    transform: scale(1.35);
+    transition: 0.7s;
+    margin: 70px;
+}
+
+div.cont {
+    margin: 15px;
+    padding: 8px;
+    background-color: blanchedalmond;
+    border: 2px dotted brown;
+    text-align: left;
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+}
+
+span.ing-name {
+    font-weight: 800;
+}
+ul {
+    background-color: lightgreen;
+    padding: 8px;
+    margin: 15px;
+}
+
+ol {
+    background-color: lightyellow;
+    padding: 8px;
+    margin: 15px;
+}
